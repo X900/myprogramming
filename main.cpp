@@ -20,7 +20,7 @@ int main()
     {
         Tablica[i]=i;
     }
-
+    printf("Czego tu?\n");
     cout << "Hello  world!" << endl << "Raz, dwa, trzy" << endl
     << wiekUzytkownika << " - " <<pi << endl;
     for  (i=1 ; i < 6 ; i++) {cout << Tablica[i];}
